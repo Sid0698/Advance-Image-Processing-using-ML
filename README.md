@@ -1,5 +1,6 @@
 # Advance-Image-Processing-using-ML
-Tasks Implemented :-
+****Tasks Implemented :-
+
 *Only numpy is allowed to process the task*
 1) Read the image and convert it to grayscale. Display both the images.
 2) Using Sobel operator, perform edge detection on the grayscale image. Display the resultant
